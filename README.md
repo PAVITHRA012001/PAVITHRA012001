@@ -9,6 +9,7 @@ Welcome to my page.<br>
 - 🌱 I’m Pavithra.<br>
 - 🌱 I’m a B.E graduate.<br>
 - 🌱 A burgeoning software developer.<br>
+- 🌱 In love with Python.<br>
 - 🌱 I’m currently learning Advanced Python modules and Web developement.
 
 <h3 align="left">Connect with me:</h3>
